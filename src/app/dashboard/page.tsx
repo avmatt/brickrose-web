@@ -1,3 +1,11 @@
+import { Header } from "@/app/Header";
+import { Main } from "@/app/Main";
+
 export default function Dashboard() {
-  return <div className="">Dash</div>;
+  return (
+    <>
+      <Header>Dashboard</Header>
+      <Main>Dashboard Page</Main>
+    </>
+  );
 }
