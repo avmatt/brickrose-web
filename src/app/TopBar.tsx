@@ -11,6 +11,7 @@ export const TopBar = () => {
   const navigation = [
     { name: "Home", href: "/" },
     { name: "Dashboard", href: "/dashboard" },
+    { name: "Boards", href: "/boards" },
   ];
 
   return (

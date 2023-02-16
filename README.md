@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+auth
+accessibility
+headless ui
+SSR
+tests
+animation
+back account
+
+gfaKKH43sDBFBTsR
+
 ## Getting Started
 
 First, run the development server:
